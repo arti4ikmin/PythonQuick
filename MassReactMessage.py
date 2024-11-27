@@ -16,8 +16,9 @@ def add_reaction(token, channel_id, message_id, emoji_name, emoji_id):
 token = 'DISCORDTOKEN'
 channel_id = 'CHANNEL ID'
 message_id = 'MESSAGE ID'
-emoji_name = "Content"
+emoji_name = "Content" # CHANGE NAME OF EMOJI IF REQUIRED
 
+# CHANGE EMOJI IDS HERE (maybe script to get all emojis in a list soon? )
 emoji_ids = [
     "1284249234983489587",
     "1284249255006965842",
