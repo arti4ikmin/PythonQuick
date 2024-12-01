@@ -1,3 +1,5 @@
+# Python File used for arti-core, aswell as arti-tracker, CHECK LICENSE OF THE PROJECTS IN CASE THIS IS USED FOR COMMERCIAL PURPOSES.
+
 import asyncio
 import json
 import websockets
